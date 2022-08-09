@@ -11,7 +11,16 @@
 <br>
 
 ## 📷 Tela Principal
-<img src="https://user-images.githubusercontent.com/63603061/183540201-f4fcefd4-249e-4974-9720-d9015e6baa21.png" width=100%>
+<img src="https://user-images.githubusercontent.com/63603061/183540585-3a390ee8-293c-483b-aab0-d6a6b48ec26e.png" width=100%>
+
+## 🖥️ Tela Pegando a estrada
+<img src="https://user-images.githubusercontent.com/63603061/183540844-87446944-7b10-4f39-8df1-6ff4a8bea212.png" width=100%>
+
+## 🖥️ Tela Pôr do Sol
+<img src="https://user-images.githubusercontent.com/63603061/183540970-36fd4a3f-001c-482f-9ccb-316af0414b6d.png" width=100%>
+
+## 🖥️ Tela Montanhas
+<img src="https://user-images.githubusercontent.com/63603061/183541099-654206bd-1d62-44df-8d66-fc43c2c8c03c.png" width=100%>
 
 ## 💻 Projeto
 
