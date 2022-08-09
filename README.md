@@ -11,7 +11,7 @@
 <br>
 
 ## 📷 Tela Principal
-<img src="https://user-images.githubusercontent.com/63603061/179858444-f7e04f75-77ba-4512-a54e-37144f32fa00.png" width=100%>
+<img src="https://user-images.githubusercontent.com/63603061/183540201-f4fcefd4-249e-4974-9720-d9015e6baa21.png" width=100%>
 
 ## 💻 Projeto
 
